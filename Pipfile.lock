@@ -141,11 +141,11 @@
         },
         "certifi": {
             "hashes": [
-                "sha256:1275f7a45be9464efc1173084eaa30f866fe2e47d389406136d332ed4967ec56",
-                "sha256:b650d30f370c2b724812bee08008be0c4163b163ddaec3f2546c1caf65f191db"
+                "sha256:3d5da6925056f6f18f119200434a4780a94263f10d1c21d032a6f6b2baa20651",
+                "sha256:ca78db4565a652026a4db2bcdf68f2fb589ea80d0be70e03929ed730746b84fe"
             ],
             "markers": "python_version >= '3.6'",
-            "version": "==2024.12.14"
+            "version": "==2025.1.31"
         },
         "charset-normalizer": {
             "hashes": [
@@ -418,11 +418,11 @@
         },
         "langsmith": {
             "hashes": [
-                "sha256:364fedd50406c46f61b2fc179ac8a2db6b3587610102c644a2a0af3fc51f4345",
-                "sha256:ef2bde2380b3e0d27a832b1b1f22831e98ed875933c6a96c3b8057108ee17c44"
+                "sha256:29da924d2e3662dd56f96d179ebc06662b66dd0b2317362ccebe0de1b78750e7",
+                "sha256:d891a205f70ab0b2c26311db6c52486ffc9fc1124238b999619445f6ae900725"
             ],
             "markers": "python_version >= '3.9' and python_version < '4.0'",
-            "version": "==0.3.3"
+            "version": "==0.3.5"
         },
         "multidict": {
             "hashes": [
